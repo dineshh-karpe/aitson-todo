@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Firebase Configuration ###
+# Firebase service account credentials
+src/main/resources/firebase-service-account.json
+src/main/resources/firebase-*.json
+*.firebase.json
+
+### Environment-specific Properties ###
+src/main/resources/application-stg.properties
+src/main/resources/application-qa.properties
+src/main/resources/application-prod.properties

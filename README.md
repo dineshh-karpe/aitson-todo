@@ -132,4 +132,4 @@ Each environment has optimized connection pool settings:
 | dev | INFO | DEBUG | DEBUG |
 | qa | WARN | INFO | WARN |
 | stg | WARN | WARN | ERROR |
-| prod | ERROR | ERROR | ERROR | 
+| prod | ERROR | ERROR | ERROR |
